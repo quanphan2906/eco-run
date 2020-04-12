@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Hack the Helyx but 2D",
+"dataUrl": "Build_v7.data.unityweb",
+"wasmCodeUrl": "Build_v7.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build_v7.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#ECECEC",
+"cacheControl": {"default": "must-revalidate"}
+}
